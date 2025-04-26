@@ -3,8 +3,8 @@
       "model": "invoices.Customer",
       "pk": 1,
       "fields": {
-        "name": "Acme Corp",
-        "email": "acme@example.com",
+        "name": "Pedri",
+        "email": "pedrigonzalez@gmail.com",
         "created_at": "2023-01-01T00:00:00Z"
       }
     },
